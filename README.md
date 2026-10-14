@@ -3,7 +3,7 @@
 Read-only assistant for SyncTask. It answers questions about the user's own projects and
 tasks with a local Ollama model. The database is read in code, and the model writes the
 answer from that data. This repo is separate from the
-SyncTask Expo app and shares no code with it.
+[SyncTask Expo app](https://github.com/smurfDei28/SyncTask) and shares no code with it.
 
 ## Safety defaults
 
